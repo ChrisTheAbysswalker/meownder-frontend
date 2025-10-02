@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     allowedHosts: true
   },
-  base: process.env.VITE_BASE_PATH || "/Meownder",
+  base: process.env.VITE_BASE_PATH || "/",
 })
